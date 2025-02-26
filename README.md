@@ -16,19 +16,18 @@ pip install opencv-python
 
   #### Encryption Process:
   
-    ##### Run the script:
-      ###### python stego.py
+  ##### Run the script:
+  ###### python stego.py
       
-      Enter the secret message to be hidden.
-      Enter a passcode to protect the message.
-      
-      The encrypted image (encryptedImage.jpg) will be generated.
+  Enter the secret message to be hidden.
+  Enter a passcode to protect the message.
+  The encrypted image (encryptedImage.jpg) will be generated.
   
   #### Decryption Process:
   
-    Run the script again.
-    Enter the correct passcode.
-    The hidden message will be displayed.
+  Run the script again.
+  Enter the correct passcode.
+  The hidden message will be displayed.
 
 ### Working Mechanism 
 
